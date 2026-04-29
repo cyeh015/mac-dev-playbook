@@ -61,6 +61,13 @@ homebrew_installed_packages:
   # - wget
   # - wrk
   # - zsh-history-substring-search
+  # ---
+  - iperf3
+  # required to build PETSc
+  - make
+  - autoconf
+  - automake
+  - libtool
 
 homebrew_taps: []
 
