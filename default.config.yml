@@ -102,6 +102,9 @@ homebrew_cask_apps:
   # - transmit
   - hdfview
   - mactex
+  - kdiff3
+  - meld
+  - rar
 
 # See `geerlingguy.mac.mas` role documentation for usage instructions.
 # use (a homebrew package) `mas list` to show currently installed App Store apps
