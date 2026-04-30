@@ -107,6 +107,7 @@ homebrew_cask_apps:
   - meld
   - rar
   - arc
+  - logseq
   # dev
   - miniforge
 
