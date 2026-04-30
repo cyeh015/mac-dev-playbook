@@ -105,7 +105,6 @@ homebrew_cask_apps:
   - kdiff3
   - meld
   - rar
-  - qgis
 
 # See `geerlingguy.mac.mas` role documentation for usage instructions.
 # use (a homebrew package) `mas list` to show currently installed App Store apps
