@@ -69,6 +69,8 @@ homebrew_installed_packages:
   - autoconf
   - automake
   - libtool
+  # Mac App Store command-line interface
+  - mas
 
 homebrew_taps: []
 
