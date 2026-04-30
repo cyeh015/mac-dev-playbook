@@ -90,7 +90,7 @@ homebrew_cask_apps:
 
 # See `geerlingguy.mac.mas` role documentation for usage instructions.
 # use (a homebrew package) `mas list` to show currently installed App Store apps
-mas_installed_apps: []
+mas_installed_apps:
   - { id: 1470499037, name: "Xcode" }
   - { id: 1295203466, name: "Windows App" }
   - { id: 1475387142, name: "Tailscale" }
