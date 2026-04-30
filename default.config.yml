@@ -27,13 +27,13 @@ dotfiles_repo_accept_hostkey: true
 dotfiles_repo_local_destination: ~/work/dotfiles
 dotfiles_repo_version: main # Replace with your default branch
 dotfiles_files:
-  # - .zshrc
+  - .zshrc
+  - .zprofile
   - .gitignore
   # - .inputrc
   - .osx
   - .vimrc
   - .screenrc
-  - .zprofile
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
