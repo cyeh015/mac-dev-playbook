@@ -106,6 +106,8 @@ homebrew_cask_apps:
   - meld
   - rar
   - arc
+  # dev
+  - miniforge
 
 # See `geerlingguy.mac.mas` role documentation for usage instructions.
 # use (a homebrew package) `mas list` to show currently installed App Store apps
