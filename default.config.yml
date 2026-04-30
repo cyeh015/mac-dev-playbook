@@ -33,6 +33,7 @@ dotfiles_files:
   - .osx
   - .vimrc
   - .screenrc
+  - .zprofile
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
