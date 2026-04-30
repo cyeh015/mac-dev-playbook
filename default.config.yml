@@ -71,6 +71,8 @@ homebrew_installed_packages:
   - libtool
   # Mac App Store command-line interface
   - mas
+  # others
+  - syncthing
 
 homebrew_taps: []
 
