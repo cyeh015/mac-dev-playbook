@@ -99,6 +99,7 @@ homebrew_cask_apps:
   # - sequel-ace
   # - slack
   - sublime-text
+  - sublime-merge
   # - transmit
   - hdfview
   - mactex
