@@ -80,7 +80,6 @@ homebrew_installed_packages:
   # work related
   - gnuplot
   - ghostscript
-  - mactex
   # others
   - syncthing
   - sevenzip
@@ -102,6 +101,7 @@ homebrew_cask_apps:
   - sublime-text
   # - transmit
   - hdfview
+  - mactex
 
 # See `geerlingguy.mac.mas` role documentation for usage instructions.
 # use (a homebrew package) `mas list` to show currently installed App Store apps
