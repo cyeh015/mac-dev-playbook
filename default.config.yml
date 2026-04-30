@@ -64,6 +64,8 @@ homebrew_installed_packages:
   # - zsh-history-substring-search
   # ---
   - iperf3
+  # required to run pre-compiled waiwera
+  - open-mpi
   # required to build PETSc
   - make
   - autoconf
