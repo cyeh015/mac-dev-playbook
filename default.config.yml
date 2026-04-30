@@ -90,17 +90,17 @@ homebrew_cask_apps:
 
 # See `geerlingguy.mac.mas` role documentation for usage instructions.
 # use (a homebrew package) `mas list` to show currently installed App Store apps
-mas_installed_apps:
-  - { id: 1295203466, name: "Windows App" }
-  - { id: 1475387142, name: "Tailscale" }
-  - { id:  822514576, name: "SonicWall Mobile Connect" }
-  - { id:  409907375, name: "Remote Desktop" }
-  - { id:  425264550, name: "Blackmagic Disk Speed Test" }
-  - { id:  497799835, name: "Xcode" }
-  - { id:  462058435, name: "Microsoft Excel" }
-  - { id:  462062816, name: "Microsoft PowerPoint" }
-  - { id:  462054704, name: "Microsoft Word" }
-  - { id:  424389933, name: "Final Cut Pro" }
+mas_installed_apps: []
+  # - { id: 1295203466, name: "Windows App" }
+  # - { id: 1475387142, name: "Tailscale" }
+  # - { id:  822514576, name: "SonicWall Mobile Connect" }
+  # - { id:  409907375, name: "Remote Desktop" }
+  # - { id:  425264550, name: "Blackmagic Disk Speed Test" }
+  # - { id:  497799835, name: "Xcode" }
+  # - { id:  462058435, name: "Microsoft Excel" }
+  # - { id:  462062816, name: "Microsoft PowerPoint" }
+  # - { id:  462054704, name: "Microsoft Word" }
+  # - { id:  424389933, name: "Final Cut Pro" }
   # - { id: 1437809329, name: "Surfshark" }
 
 mas_email: ""
