@@ -66,15 +66,23 @@ homebrew_installed_packages:
   - iperf3
   # required to run pre-compiled waiwera
   - open-mpi
-  # required to build PETSc
+  # dev
+  - bison
+  - cmake
   - make
   - autoconf
   - automake
   - libtool
+  - dylibbundler
   # Mac App Store command-line interface
   - mas
+  # work related
+  - gnuplot
+  - ghostscript
   # others
   - syncthing
+  - sevenzip
+  - qrencode
 
 homebrew_taps: []
 
@@ -91,6 +99,7 @@ homebrew_cask_apps:
   # - slack
   - sublime-text
   # - transmit
+  - hdfview
 
 # See `geerlingguy.mac.mas` role documentation for usage instructions.
 # use (a homebrew package) `mas list` to show currently installed App Store apps
